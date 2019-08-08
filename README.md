@@ -49,5 +49,4 @@ Quote from NoLooseEnd:
 
 # Credit
  - Code based on Maddog1929's [IPMI PS tool](https://github.com/Maddog1929/Powershell-IPMI-script) for R710.
-
  - Ideas found from NoLooseEnd's [IPMI bash tool](https://github.com/NoLooseEnds/Scripts/tree/master/R710-IPMI-TEMP) for R710.
