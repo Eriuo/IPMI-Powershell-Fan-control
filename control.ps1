@@ -4,9 +4,9 @@ Get-Childitem -Path "$PSScriptRoot\modules" -Recurse -include "*.psm1" | % { Imp
 
 # Specify the values that corresponds to your system setup.
 $self = @{
-  ip          = "192.168.1.90"
+  ip          = "192.168.0.120"
   user        = "root"
-  pass        = "soffan12"
+  pass        = "calvin"
   ipmiToolDir = "C:\Program Files (x86)\Dell\SysMgt\bmc"
 }
 
